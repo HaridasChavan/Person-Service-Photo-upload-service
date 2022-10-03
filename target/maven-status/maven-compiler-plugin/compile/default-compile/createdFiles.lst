@@ -1,0 +1,16 @@
+com\irissoftware\springbootmongodb\config\SpringFoxConfig.class
+com\irissoftware\springbootmongodb\controller\PersonController.class
+com\irissoftware\springbootmongodb\repository\PersonRepository.class
+com\iissoftware\springbootmongodb\collection\Address.class
+com\irissoftware\springbootmongodb\SpringbootMongodbApplication.class
+com\irissoftware\springbootmongodb\repository\PhotoRepository.class
+com\irissoftware\springbootmongodb\service\PersonService.class
+com\irissoftware\springbootmongodb\controller\PhotoController.class
+com\irissoftware\springbootmongodb\service\PhotoServiceImpl.class
+com\iissoftware\springbootmongodb\collection\Photo.class
+com\iissoftware\springbootmongodb\collection\Person$PersonBuilder.class
+com\irissoftware\springbootmongodb\service\PersonServiceImpl.class
+com\irissoftware\springbootmongodb\service\PhotoService.class
+com\irissoftware\springbootmongodb\copy\SpringbootMongodbApplication.class
+com\iissoftware\springbootmongodb\collection\Address$AddressBuilder.class
+com\iissoftware\springbootmongodb\collection\Person.class
